@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionMaster", "FunctionMaster\FunctionMaster.csproj", "{C36E3B2B-E0D7-4E81-8D9B-5B9FDE48BB13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionMaster1", "FunctionMaster1\FunctionMaster1.csproj", "{609ED616-9878-47FD-9817-F659FF226E70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionMaster2", "FunctionMaster2\FunctionMaster2.csproj", "{FE1CFEED-C954-4579-B625-3B79C872904A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C36E3B2B-E0D7-4E81-8D9B-5B9FDE48BB13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36E3B2B-E0D7-4E81-8D9B-5B9FDE48BB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36E3B2B-E0D7-4E81-8D9B-5B9FDE48BB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36E3B2B-E0D7-4E81-8D9B-5B9FDE48BB13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609ED616-9878-47FD-9817-F659FF226E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609ED616-9878-47FD-9817-F659FF226E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609ED616-9878-47FD-9817-F659FF226E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609ED616-9878-47FD-9817-F659FF226E70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE1CFEED-C954-4579-B625-3B79C872904A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1CFEED-C954-4579-B625-3B79C872904A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1CFEED-C954-4579-B625-3B79C872904A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1CFEED-C954-4579-B625-3B79C872904A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

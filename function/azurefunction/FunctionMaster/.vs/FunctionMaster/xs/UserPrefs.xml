@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C36E3B2B-E0D7-4E81-8D9B-5B9FDE48BB13}|Default">
+  <MonoDevelop.Ide.ItemProperties.FunctionMaster FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FunctionMaster1 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FunctionMaster1/FunctionMaster1.cs">
+    <Files>
+      <File FileName="FunctionMaster/FunctionMaster.cs" Line="15" Column="35" />
+      <File FileName="FunctionMaster1/FunctionMaster1.cs" Line="14" Column="6" />
+      <File FileName="FunctionMaster2/FunctionMaster2.cs" Line="15" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FunctionMaster" expanded="True">
+            <Node name="FunctionMaster" expanded="True" />
+            <Node name="FunctionMaster1" expanded="True">
+              <Node name="FunctionMaster1.cs" selected="True" />
+            </Node>
+            <Node name="FunctionMaster2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FunctionMaster2 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

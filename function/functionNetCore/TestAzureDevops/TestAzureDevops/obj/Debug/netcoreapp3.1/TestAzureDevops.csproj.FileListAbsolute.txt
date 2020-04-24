@@ -1,0 +1,12 @@
+/Users/macintoshhd/Desktop/project/function/functionNetCore/TestAzureDevops/TestAzureDevops/bin/Debug/netcoreapp3.1/TestAzureDevops.deps.json
+/Users/macintoshhd/Desktop/project/function/functionNetCore/TestAzureDevops/TestAzureDevops/bin/Debug/netcoreapp3.1/TestAzureDevops.runtimeconfig.json
+/Users/macintoshhd/Desktop/project/function/functionNetCore/TestAzureDevops/TestAzureDevops/bin/Debug/netcoreapp3.1/TestAzureDevops.runtimeconfig.dev.json
+/Users/macintoshhd/Desktop/project/function/functionNetCore/TestAzureDevops/TestAzureDevops/bin/Debug/netcoreapp3.1/TestAzureDevops.dll
+/Users/macintoshhd/Desktop/project/function/functionNetCore/TestAzureDevops/TestAzureDevops/bin/Debug/netcoreapp3.1/TestAzureDevops.pdb
+/Users/macintoshhd/Desktop/project/function/functionNetCore/TestAzureDevops/TestAzureDevops/obj/Debug/netcoreapp3.1/TestAzureDevops.csprojAssemblyReference.cache
+/Users/macintoshhd/Desktop/project/function/functionNetCore/TestAzureDevops/TestAzureDevops/obj/Debug/netcoreapp3.1/TestAzureDevops.csproj.CoreCompileInputs.cache
+/Users/macintoshhd/Desktop/project/function/functionNetCore/TestAzureDevops/TestAzureDevops/obj/Debug/netcoreapp3.1/TestAzureDevops.AssemblyInfoInputs.cache
+/Users/macintoshhd/Desktop/project/function/functionNetCore/TestAzureDevops/TestAzureDevops/obj/Debug/netcoreapp3.1/TestAzureDevops.AssemblyInfo.cs
+/Users/macintoshhd/Desktop/project/function/functionNetCore/TestAzureDevops/TestAzureDevops/obj/Debug/netcoreapp3.1/TestAzureDevops.dll
+/Users/macintoshhd/Desktop/project/function/functionNetCore/TestAzureDevops/TestAzureDevops/obj/Debug/netcoreapp3.1/TestAzureDevops.pdb
+/Users/macintoshhd/Desktop/project/function/functionNetCore/TestAzureDevops/TestAzureDevops/obj/Debug/netcoreapp3.1/TestAzureDevops.genruntimeconfig.cache

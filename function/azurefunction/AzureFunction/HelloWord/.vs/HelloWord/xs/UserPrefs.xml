@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BEE28D33-16B2-4231-9285-A2E88EF09054}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWord/HelloWord.cs">
+    <Files>
+      <File FileName="HelloWord/HelloWord.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloWord" expanded="True">
+            <Node name="HelloWord" expanded="True">
+              <Node name="HelloWord.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HelloWord FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

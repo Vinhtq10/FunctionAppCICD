@@ -5,16 +5,14 @@
     <Files>
       <File FileName="FunctionMaster/FunctionMaster.cs" Line="15" Column="35" />
       <File FileName="FunctionMaster1/FunctionMaster1.cs" Line="14" Column="6" />
-      <File FileName="FunctionMaster2/FunctionMaster2.cs" Line="15" Column="40" />
+      <File FileName="FunctionMaster2/FunctionMaster2.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FunctionMaster" expanded="True">
+          <Node name="FunctionMaster" expanded="True" selected="True">
             <Node name="FunctionMaster" expanded="True" />
-            <Node name="FunctionMaster1" expanded="True">
-              <Node name="FunctionMaster1.cs" selected="True" />
-            </Node>
+            <Node name="FunctionMaster1" expanded="True" />
             <Node name="FunctionMaster2" expanded="True" />
           </Node>
         </State>
